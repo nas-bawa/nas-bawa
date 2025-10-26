@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I’m Nas Bawa
 
 🚀 **Aspiring Software Developer | AI Enthusiast | Lifelong Learner**
